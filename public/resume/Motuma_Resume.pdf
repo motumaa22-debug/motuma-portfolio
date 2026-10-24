@@ -1,14 +1,159 @@
 %PDF-1.4
-1 0 obj<</Type/Catalog/Pages 2 0 R>>endobj
-2 0 obj<</Type/Pages/Kids[3 0 R]/Count 1>>endobj
-3 0 obj<</Type/Page/MediaBox[0 0 612 792]/Parent 2 0 R/Resources<<>>>>endobj
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources 4 0 R /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Font << /F1 6 0 R /F2 7 0 R >> >>
+endobj
+5 0 obj
+<< /Length 5642 >>
+stream
+0.05 0.10 0.20 rg
+BT /F2 20 Tf 40.0 800.0 Td (Motuma Abebe) Tj ET
+0.30 0.35 0.40 rg
+BT /F1 9 Tf 375.0 808.0 Td (Jimma, Ethiopia | +251 952 833 568) Tj ET
+0.00 0.45 0.75 rg
+BT /F1 9 Tf 375.0 796.0 Td (motumaa22@gmail.com) Tj ET
+0.00 0.50 0.80 rg
+BT /F2 10.5 Tf 40.0 784.0 Td (Computer Science Student  |  Web & Software Developer) Tj ET
+0.30 0.35 0.40 rg
+BT /F1 9 Tf 375.0 784.0 Td (github.com/motumaa22-debug) Tj ET
+0.00 0.50 0.80 RG
+1.50 w
+40.0 772.0 m 555.0 772.0 l S
+0.05 0.12 0.25 rg
+BT /F2 11 Tf 40.0 756.0 Td (PROFESSIONAL SUMMARY) Tj ET
+0.85 0.88 0.92 RG
+0.75 w
+40.0 752.0 m 555.0 752.0 l S
+0.20 0.25 0.30 rg
+BT /F1 9 Tf 40.0 740.0 Td (Motivated fourth-year Computer Science student at Jimma University \(JiT\) with practical experience) Tj ET
+0.20 0.25 0.30 rg
+BT /F1 9 Tf 40.0 728.0 Td (in software development, full-stack web applications, and database management. Skilled in Python, Java,) Tj ET
+0.20 0.25 0.30 rg
+BT /F1 9 Tf 40.0 716.0 Td (PHP, JavaScript, React, MySQL, Git, and GitHub. Passionate about engineering high-impact software) Tj ET
+0.20 0.25 0.30 rg
+BT /F1 9 Tf 40.0 704.0 Td (solutions and solving real-world challenges through technology and modern architectures.) Tj ET
+0.05 0.12 0.25 rg
+BT /F2 11 Tf 40.0 688.0 Td (EDUCATION) Tj ET
+0.85 0.88 0.92 RG
+0.75 w
+40.0 684.0 m 555.0 684.0 l S
+0.10 0.15 0.20 rg
+BT /F2 9.5 Tf 40.0 672.0 Td (Jimma University - Jimma Institute of Technology \(JiT\)) Tj ET
+0.40 0.45 0.50 rg
+BT /F1 9 Tf 415.0 672.0 Td (Expected Graduation: 2027/2028) Tj ET
+0.00 0.45 0.75 rg
+BT /F1 9 Tf 40.0 660.0 Td (B.Sc. in Computer Science \(4th Year\)) Tj ET
+0.40 0.45 0.50 rg
+BT /F1 9 Tf 465.0 660.0 Td (Jimma, Ethiopia) Tj ET
+0.30 0.35 0.40 rg
+BT /F1 8.5 Tf 40.0 648.0 Td (Relevant Courses: Data Structures & Algorithms, Database Systems, Software Engineering,) Tj ET
+0.30 0.35 0.40 rg
+BT /F1 8.5 Tf 40.0 638.0 Td (Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning, Web Programming) Tj ET
+0.05 0.12 0.25 rg
+BT /F2 11 Tf 40.0 624.0 Td (EXPERIENCE & PRACTICAL TRAINING) Tj ET
+0.85 0.88 0.92 RG
+0.75 w
+40.0 620.0 m 555.0 620.0 l S
+0.10 0.15 0.20 rg
+BT /F2 9.5 Tf 40.0 608.0 Td (Dangote Cement Ethiopia) Tj ET
+0.40 0.45 0.50 rg
+BT /F1 9 Tf 475.0 608.0 Td (Muger, Ethiopia) Tj ET
+0.00 0.45 0.75 rg
+BT /F1 9 Tf 40.0 596.0 Td (Network Infrastructure & IT Support Intern) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 584.0 Td (- Supported enterprise LAN/WAN infrastructure and configured structured cabling and network switches.) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 573.0 Td (- Diagnosed and resolved hardware, operating system, and network connectivity issues for plant staff.) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 562.0 Td (- Monitored industrial switch/router status and followed enterprise IT operational guidelines.) Tj ET
+0.05 0.12 0.25 rg
+BT /F2 11 Tf 40.0 547.0 Td (KEY SOFTWARE PROJECTS) Tj ET
+0.85 0.88 0.92 RG
+0.75 w
+40.0 543.0 m 555.0 543.0 l S
+0.10 0.15 0.20 rg
+BT /F2 9.5 Tf 40.0 531.0 Td (Food Delivery & Ordering System) Tj ET
+0.00 0.45 0.75 rg
+BT /F1 8.5 Tf 345.0 531.0 Td ([PHP, MySQL, HTML5, CSS3, JavaScript]) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 520.0 Td (- Developed responsive web-based food ordering platform with authentication and session handling.) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 509.5 Td (- Architected normalized MySQL database for real-time order tracking, menu items, and carts.) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 499.0 Td (- Built administrative management portal for order fulfillment, revenue, and delivery updates.) Tj ET
+0.10 0.15 0.20 rg
+BT /F2 9.5 Tf 40.0 485.5 Td (Cooperative Store Management System) Tj ET
+0.00 0.45 0.75 rg
+BT /F1 8.5 Tf 345.0 485.5 Td ([PHP, React, MySQL, CSS3, JavaScript]) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 474.5 Td (- Built member registration, sales tracking, and transaction record management modules.) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 464.0 Td (- Generated automated reporting and business analytics dashboard for administrative oversight.) Tj ET
+0.10 0.15 0.20 rg
+BT /F2 9.5 Tf 40.0 450.5 Td (Student Registration & Records System) Tj ET
+0.00 0.45 0.75 rg
+BT /F1 8.5 Tf 345.0 450.5 Td ([PHP, MySQL, HTML, CSS]) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 439.5 Td (- Created student enrollment, course registration, and academic record/grade management modules.) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 48.0 429.0 Td (- Implemented optimized SQL queries for high-speed student academic record retrieval.) Tj ET
+0.05 0.12 0.25 rg
+BT /F2 11 Tf 40.0 413.5 Td (TECHNICAL SKILLS) Tj ET
+0.85 0.88 0.92 RG
+0.75 w
+40.0 409.5 m 555.0 409.5 l S
+0.10 0.15 0.20 rg
+BT /F2 8.5 Tf 40.0 397.5 Td (Programming:) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 135.0 397.5 Td (Python, Java, PHP, JavaScript \(ES6+\), SQL, HTML5, CSS3) Tj ET
+0.10 0.15 0.20 rg
+BT /F2 8.5 Tf 40.0 386.0 Td (Frameworks & Web:) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 135.0 386.0 Td (React, Tailwind CSS, Bootstrap, PHP MVC Architecture) Tj ET
+0.10 0.15 0.20 rg
+BT /F2 8.5 Tf 40.0 374.5 Td (Databases & Tools:) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 135.0 374.5 Td (MySQL, Git, GitHub, XAMPP, VS Code, Windows/Linux CLI) Tj ET
+0.10 0.15 0.20 rg
+BT /F2 8.5 Tf 40.0 363.0 Td (Soft Skills:) Tj ET
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 135.0 363.0 Td (Problem Solving, Teamwork, Critical Thinking, Time Management, Adaptability) Tj ET
+0.05 0.12 0.25 rg
+BT /F2 11 Tf 40.0 349.5 Td (CERTIFICATIONS & TRAINING) Tj ET
+0.85 0.88 0.92 RG
+0.75 w
+40.0 345.5 m 555.0 345.5 l S
+0.25 0.28 0.32 rg
+BT /F1 8.5 Tf 40.0 333.5 Td (* Introduction to Cybersecurity    * HTML Essential Certificate    * Ethiocoder Web Programming) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
 xref
-0 4
+0 8
 0000000000 65535 f 
-0000000009 00000 n 
-0000000052 00000 n 
-0000000101 00000 n 
-trailer<</Size 4/Root 1 0 R>>
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000231 00000 n 
+0000000284 00000 n 
+0000005978 00000 n 
+0000006048 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
 startxref
-178
+6123
 %%EOF
